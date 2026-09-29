@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: fjolnirswell.github.io/mygarden
+  baseUrl: fjolnir4.github.io/mygarden
   ignorePatterns:
     - private
     - templates
