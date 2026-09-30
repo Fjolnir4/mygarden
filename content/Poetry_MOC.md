@@ -2,8 +2,6 @@
 title: Poetry_MOC
 tags:
   - poetry
-aliases:
-  - "[]"
 ---
 
   ---  
