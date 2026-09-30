@@ -3,8 +3,6 @@ title: Renaissance Poetry
 tags:
   - poetry
   - renaissance
-  - chaucer
-  - marlowe
 aliases:
 ---
 
