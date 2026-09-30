@@ -1,5 +1,7 @@
 ---
-title: Master MOC
+title: Welcome to Quartz
 ---
-1. [[Poetry_MOC]]
-2. 
+
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started. 
+
