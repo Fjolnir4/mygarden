@@ -3,5 +3,5 @@ title: Welcome to Quartz
 ---
 
 This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started. Hm deniyorum bakalim
+See the [documentation](https://quartz.jzhao.xyz) for how to get started. 
 
