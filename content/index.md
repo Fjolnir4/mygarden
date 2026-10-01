@@ -1,5 +1,9 @@
 ---
-title: Master MOC
+title: Welcome to the deep Well of Wisdom!
 ---
-1. [[Poetry_MOC]]
-2. 
+### Ders Notları
+
+Buradan [[Master Map Of Contents for Classes]]'a gidebilirsin!
+
+
+
